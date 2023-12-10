@@ -1,0 +1,8 @@
+fastapi[all]
+openai
+python-dotenv
+# pydantic==1.*
+bs4
+python-multipart
+opencv-python-headless
+requests

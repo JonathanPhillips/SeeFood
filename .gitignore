@@ -6,6 +6,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-
-
+_pycache_/
+./svelte-kit/
+./node_modules/
+*.pyc
