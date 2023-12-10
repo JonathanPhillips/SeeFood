@@ -1,6 +1,6 @@
 # SeeFood
 ### It only does hot dogs (and not hot dogs)!
-#### But seriously it will also give more details beyond hot dog or not hot dog
+#### But seriously it will also give more details beyond hot dog or not hot dog :P
 ### Usage
 - run the FASTAPI server with `uvicorn main:app --reload` 
 - run the front end with `npm run dev -- --open`
